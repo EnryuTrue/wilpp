@@ -22,7 +22,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center space-x-2">
-            <img src="/Hippo-Vending-logo.png" alt="Hippo Vending Logo" className="h-14 w-28" />
+            <img src="/HippoVending-logo.png" alt="Hippo-Vending Logo" className="h-14 w-28" />
           </Link>
 
           {/* Desktop Navigation */}

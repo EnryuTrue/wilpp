@@ -12,7 +12,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="pt-24 pb-16 px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <img src="/Hippo-Vending-logo.png" alt="Hippo Vending Logo" className="mx-auto mb-6 h-26 w-52" />
+          <img src="/HippoVending-logo.png" alt="Hippo Vending Logo" className="mx-auto mb-6 h-26 w-52" />
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">Hippo Vending</h1>
           <p className="text-xl md:text-2xl text-orange-600 mb-6">
             Free Vending Solutions in Hutto & Greater Austin Area
